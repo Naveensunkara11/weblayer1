@@ -1,0 +1,21 @@
+OS : Windows ,Linux(redhat,ubuntu)
+Cloud: Aws,Azure,Gcp,Alibaba
+SCM : Git,Github or Bitbucket
+Custom images creation: Packer
+CI/CD: Jenkins or Teamcity or Bamboo or Travis ci
+Configuration tools:Ansible or Puppet or Chef or saltstalk
+Build Tools:Maven
+Application servers : Apache tomcat,Nginx
+Webservers : Websphere,Jbose,Weblogic
+Infrastructure provisioning: Terraform
+Container tools: Docker or Rocket
+Orchestration tools : K8s(kubeadm)or Rancher or Dockerswarm
+Ticketing tools : Jira or Servicenow or BMC Remedy
+Application monitoring tools:Appdynamics,Datadog,Neaurlic
+Logs monitoring tools : ELK(Elastic log stash kibana),Splunk forwarder
+Internal communication tools: Slack
+Scripting knowledge :Bash or Python
+
+
+
+
